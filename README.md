@@ -32,15 +32,15 @@ show databases;
 
 # result
 #
-#   +--------------------+
-#   | Database           |
-#   +--------------------+
-#   | information_schema |
-#   | mysql              |
-#   | performance_schema |
-#   | play               |
-#   | sys                |
-#   +--------------------+
+# +--------------------+
+# | Database           |
+# +--------------------+
+# | information_schema |
+# | mysql              |
+# | performance_schema |
+# | play               |
+# | sys                |
+# +--------------------+
 
 use play;
 
