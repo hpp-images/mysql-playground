@@ -6,7 +6,7 @@ You can use characters of utf-8, so you can input Japanese.
 ## how to use
 
 0. install **`docker`**
-1. run `docker run -d --name playground -p 3306:3306 hpprc/mysql_playground`
+1. run `docker run -d --name playground -p 3306:3306 hpprc/mysql-playground`
 2. run `docker exec -it playground mysql -uroot -proot`
 
 

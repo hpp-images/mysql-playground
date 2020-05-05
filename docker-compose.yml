@@ -1,8 +1,9 @@
-version: '3'
+version: "3"
 
 services:
   db:
-    image: hpprc/mysql_playground:latest
+    build: .
+    image: hpprc/mysql-playground:latest
     container_name: playground
     ports:
       - 3306:3306
